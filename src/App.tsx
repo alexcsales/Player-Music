@@ -1,4 +1,4 @@
-import { Player, Controls } from "./containers/components";
+import { Player, Controls } from "./containers";
 
 function App() {
   return (
