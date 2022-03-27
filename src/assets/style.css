@@ -1,11 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;400;700&family=Raleway:wght@400;500;700&display=swap');
 
+:root {
+  --brango: #fff;
+  --cinza: #292929;
+  --cinza-escuro: #212121a1;
+  --preto: #1d1d1d;
+}
+
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   outline: none;
   font-family: "Lato", sans-serif;
+  overflow-x: hidden;
 }
 
 button {
@@ -14,4 +22,38 @@ button {
 
 a {
   text-decoration: none;
+}
+
+/*controles*/
+.controle__container {
+  width: 100vw;
+  height: 6.25rem;
+  background: var(--preto);
+  position: absolute;
+  bottom: 0;
+  display: flex;
+}
+
+.controle__imagem {
+  width: 6.25rem;
+  height: 6.25rem;
+}
+
+.botoes__container {
+  display: flex;
+  flex-grow: 1;
+  justify-content: center;
+  align-items: center;
+}
+
+.controle__botao {
+  background: transparent;
+  border: none;
+  margin: 0 0.6rem;
+}
+
+.botao__icone {
+  width: 1rem;
+  height: 1rem;
+
 }
