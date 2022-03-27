@@ -1,3 +1,16 @@
+<h1 align='center'>Player-Music</h1>
+
+<h3 align='center'>Create the interface of a music player.</h3>
+
+<h4 align='center'README project 🚀</h4>
+  
+### ⚙ Features
+- [] Buttons
+
+<h1 align="center">
+  <img height="20%" width="60%" alt="GIF-Project"  src=""/>
+<h1/>
+  <hr>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
