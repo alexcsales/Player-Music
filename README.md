@@ -5,7 +5,9 @@
 <h4 align='center'README project 🚀</h4>
   
 ### ⚙ Features
-- [ ] Buttons
+- [x] Control buttons
+- [ ] Playlist header
+- [ ] Playlist itens
 
 <h1 align="center">
   <img height="20%" width="60%" alt="GIF-Project"  src=""/>
