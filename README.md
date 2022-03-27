@@ -5,7 +5,7 @@
 <h4 align='center'README project 🚀</h4>
   
 ### ⚙ Features
-- [] Buttons
+- [ ] Buttons
 
 <h1 align="center">
   <img height="20%" width="60%" alt="GIF-Project"  src=""/>
