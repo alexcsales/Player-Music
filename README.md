@@ -6,7 +6,7 @@
   
 ### ⚙ Features
 - [x] Control buttons
-- [ ] Playlist header
+- [x] Playlist header
 - [ ] Playlist itens
 
 <h1 align="center">
