@@ -7,7 +7,7 @@
 ### ⚙ Features
 - [x] Control buttons
 - [x] Playlist header
-- [ ] Playlist itens
+- [x] Playlist itens
 
 <h1 align="center">
   <img height="20%" width="60%" alt="GIF-Project"  src=""/>
@@ -58,3 +58,31 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+  
+  <h2 align='center'>🖥️ Prerequisites</h2>
+  <p>Before starting, you will need to have the following tools installed: <a href='https://git-scm.com/downloads'>Git<a>,<a href='https://nodejs.org/en/'>Node.js<a>. Also it's nice to have an editor to work with code like <a href='https://code.visualstudio.com/download'>VScode<a/>.</p>
+    
+ ### 📖 Instructions:
+    
+ ```bash
+ # Clone this repository:
+ $ git clone https://github.com/alexcsales/Player-Music
+ # access the project in the terminal/cmd:
+ $ cd Player
+ # install dependencies:
+ $ npm
+ # run the application in development mode:
+ $ npm start
+ ```
+    
+ ### 🛠 Technologies
+ The following tools were used in building the project:
+   - HTML<br>
+   - CSS<br>
+   - TypeScript<br>
+   - React
+    <hr>
+    
+  <p>By ALEX🤘 <a href='https://www.linkedin.com/in/alexsales-dev/'>See my linkedin<a></p>
+
+
