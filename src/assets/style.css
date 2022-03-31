@@ -49,7 +49,7 @@ body {
 
 .cabecalho__background {
   background: --var(--preto);
-  background: linear-gradient(302deg, var(--preto) 30%, var(--laranja) 100%);
+  background: linear-gradient(302deg, var(--preto) 10%, var(--laranja) 100%);
   width: 100vw;
   height: 15.6rem;
   z-index: 1;
@@ -127,6 +127,7 @@ h6 {
 .botao__like {
   background: transparent;
   border: none;
+  padding-right: 0.5rem;
 }
 
 .like {
