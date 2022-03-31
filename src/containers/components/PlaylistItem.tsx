@@ -5,9 +5,7 @@ type TrackProps = {
   title: string;
   like: boolean;
   albumName: string;
-  cover: {
-    default: string;
-  };
+  cover: string;
 }
 
 const PlaylistItens = ({ title, like, cover, albumName }: TrackProps) => {
@@ -20,7 +18,7 @@ const PlaylistItens = ({ title, like, cover, albumName }: TrackProps) => {
   return (
     <div className="musica__container">
       <div className="musica__conteudo">
-        <img src={cover.default} alt={title} className="musica__cover" />
+        <img src={cover} alt={title} className="musica__cover" />
         <div className="musica__nome">
           <h4>{title}</h4>&nbsp;-&nbsp;<h6>{albumName}</h6>
         </div>
